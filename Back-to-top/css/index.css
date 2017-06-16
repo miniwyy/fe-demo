@@ -1,0 +1,15 @@
+body{
+    height: 3000px;
+}
+#btn {
+    width:47px;
+    height:47px;
+    position:fixed;
+    right:25px;
+    bottom:10px;
+    display:none;
+    background:url(../images/top.png) no-repeat left top;
+}
+#btn:hover {
+    background:url(../images/top.png) no-repeat 0 -47px;
+}
